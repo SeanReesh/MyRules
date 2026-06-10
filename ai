@@ -1,67 +1,67 @@
 payload:
-  - DOMAIN-SUFFIX,perplexity.ai,AI
-  - DOMAIN-SUFFIX,perplexity.ai,AI
-  - DOMAIN-SUFFIX,pplx.ai,AI
-  - DOMAIN,browser-intake-datadoghq.com,AI
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net,AI
-  - DOMAIN,openai-api.arkoselabs.com,AI
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net,AI
-  - DOMAIN,production-openaicom-storage.azureedge.net,AI
-  - DOMAIN,static.cloudflareinsights.com,AI
-  - DOMAIN-SUFFIX,ai.com,AI
-  - DOMAIN-SUFFIX,algolia.net,AI
-  - DOMAIN-SUFFIX,api.statsig.com,AI
-  - DOMAIN-SUFFIX,auth0.com,AI
-  - DOMAIN-SUFFIX,chatgpt.com,AI
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud,AI
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com,AI
-  - DOMAIN-SUFFIX,events.statsigapi.net,AI
-  - DOMAIN-SUFFIX,featuregates.org,AI
-  - DOMAIN-SUFFIX,host.livekit.cloud,AI
-  - DOMAIN-SUFFIX,identrust.com,AI
-  - DOMAIN-SUFFIX,intercom.io,AI
-  - DOMAIN-SUFFIX,intercomcdn.com,AI
-  - DOMAIN-SUFFIX,launchdarkly.com,AI
-  - DOMAIN-SUFFIX,oaistatic.com,AI
-  - DOMAIN-SUFFIX,oaiusercontent.com,AI
-  - DOMAIN-SUFFIX,observeit.net,AI
-  - DOMAIN-SUFFIX,openai.com,AI
-  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net,AI
-  - DOMAIN-SUFFIX,openaicom.imgix.net,AI
-  - DOMAIN-SUFFIX,segment.io,AI
-  - DOMAIN-SUFFIX,turn.livekit.cloud,AI
-  - DOMAIN-KEYWORD,openai,AI
-  - IP-CIDR,24.199.123.28/32,AI,no-resolve
-  - IP-CIDR,64.23.132.171/32,AI,no-resolve
-  - DOMAIN,cdn.usefathom.com,AI
-  - DOMAIN-SUFFIX,anthropic.com,AI
-  - DOMAIN-SUFFIX,claude.ai,AI
-  - DOMAIN-SUFFIX,claude.com,AI
-  - DOMAIN-SUFFIX,claudeusercontent.com,AI
-  - PROCESS-NAME,Claude,AI
-  - PROCESS-NAME,Claude Helper,AI
-  - PROCESS-NAME,Claude Helper (GPU),AI
-  - PROCESS-NAME,Claude Helper (Plugin),AI
-  - PROCESS-NAME,Claude Helper (Renderer),AI
-  - PROCESS-NAME,claude,AI
-  - PROCESS-NAME,Claude Code,AI
-  - PROCESS-NAME,Claude Code Helper,AI
-  - DOMAIN,ai.google.dev,AI
-  - DOMAIN,alkalimakersuite-pa.clients6.google.com,AI
-  - DOMAIN,generativelanguage.googleapis.com,AI
-  - DOMAIN,makersuite.google.com,AI
-  - DOMAIN-SUFFIX,bard.google.com,AI
-  - DOMAIN-SUFFIX,deepmind.com,AI
-  - DOMAIN-SUFFIX,deepmind.google,AI
-  - DOMAIN-SUFFIX,gemini.google.com,AI
-  - DOMAIN-SUFFIX,generativeai.google,AI
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
-  - DOMAIN-SUFFIX,gemini.google.com,AI
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
-  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,AI
-  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,AI
-  - DOMAIN,copilot.microsoft.com,AI
-  - DOMAIN-SUFFIX,chorus.sh,AI
-  - DOMAIN-SUFFIX,x.ai,AI
-  - DOMAIN-SUFFIX,grok.com,AI
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pplx.ai
+  - DOMAIN,browser-intake-datadoghq.com
+  - DOMAIN,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN,static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,host.livekit.cloud
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-KEYWORD,openai
+  - IP-CIDR,24.199.123.28/32
+  - IP-CIDR,64.23.132.171/32
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - PROCESS-NAME,Claude
+  - PROCESS-NAME,Claude Helper
+  - PROCESS-NAME,Claude Helper (GPU)
+  - PROCESS-NAME,Claude Helper (Plugin)
+  - PROCESS-NAME,Claude Helper (Renderer)
+  - PROCESS-NAME,claude
+  - PROCESS-NAME,Claude Code
+  - PROCESS-NAME,Claude Code Helper
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+  - DOMAIN,copilot.microsoft.com
+  - DOMAIN-SUFFIX,chorus.sh
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,grok.com
