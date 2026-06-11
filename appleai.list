@@ -1,4 +1,7 @@
-DOMAIN-SUFFIX,guzzoni.apple.com
+# AppleAI(ChatGPT)ByApple
+# https://support.apple.com/zh-cn/101555
+# For Stash (Classical, text) & Loon
+DOMAIN-SUFFIX,guzzoni.apple.com  # Siri & Dictation
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
