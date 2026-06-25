@@ -1,4 +1,4 @@
-# AIByAmy
+# AIByAmy&Sean
 # incl. perplexity, chatgpt, claude, gemini, copilot, grok
 # For Stash (Classical, text) & Loon
 DOMAIN-SUFFIX,perplexity.ai
@@ -49,6 +49,8 @@ PROCESS-NAME,Claude Helper (Renderer)
 PROCESS-NAME,claude
 PROCESS-NAME,Claude Code
 PROCESS-NAME,Claude Code Helper
+PROCESS-NAME,ChatGPT
+PROCESS-NAME,Codex
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,generativelanguage.googleapis.com
@@ -67,3 +69,6 @@ DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,chorus.sh
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,siftscience.com  #防欺诈
+DOMAIN-SUFFIX,sentry.io  #错误跟踪？
+DOMAIN-SUFFIX,revenuecat.com  #App内购平台Stripe
