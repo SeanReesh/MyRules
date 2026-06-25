@@ -1,6 +1,7 @@
 # AIByAmy&Sean
 # incl. perplexity, chatgpt, claude, gemini, copilot, grok
 # For Stash (Classical, text) & Loon
+# 73、74、75行为防欺诈、错误跟踪、App内购平台Stripe
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
@@ -70,8 +71,5 @@ DOMAIN-SUFFIX,chorus.sh
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,siftscience.com
-#防欺诈
 DOMAIN-SUFFIX,sentry.io
-#错误跟踪？
 DOMAIN-SUFFIX,revenuecat.com
-#App内购平台Stripe
