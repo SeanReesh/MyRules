@@ -69,6 +69,9 @@ DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,chorus.sh
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,siftscience.com  #防欺诈
-DOMAIN-SUFFIX,sentry.io  #错误跟踪？
-DOMAIN-SUFFIX,revenuecat.com  #App内购平台Stripe
+DOMAIN-SUFFIX,siftscience.com
+#防欺诈
+DOMAIN-SUFFIX,sentry.io
+#错误跟踪？
+DOMAIN-SUFFIX,revenuecat.com
+#App内购平台Stripe
