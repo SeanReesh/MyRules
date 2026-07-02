@@ -1,7 +1,11 @@
 # AIByAmy&Sean
 # incl. perplexity, chatgpt, claude, gemini, copilot, grok
 # For Stash (Classical, text) & Loon
-# 73、74、75行为防欺诈、错误跟踪、App内购平台Stripe
+# 以下3条为防欺诈、错误跟踪、App内购平台Stripe
+DOMAIN-SUFFIX,siftscience.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,revenuecat.com
+#
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,pplx.ai
@@ -37,11 +41,28 @@ DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
 IP-CIDR,24.199.123.28/32
 IP-CIDR,64.23.132.171/32
+#Claude
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.de
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,anthropic.auth0.com
+DOMAIN-SUFFIX,anthropic-com.ghost.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,cdn.usefathom.com
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR,2607:6bc0::/32,no-resolve
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
 PROCESS-NAME,Claude Helper (GPU)
@@ -52,6 +73,9 @@ PROCESS-NAME,Claude Code
 PROCESS-NAME,Claude Code Helper
 PROCESS-NAME,ChatGPT
 PROCESS-NAME,Codex
+GEOSITE,category-ntp
+#
+#以下Gemini & Copilot建议加入谷歌/微软规则并前置
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,generativelanguage.googleapis.com
@@ -67,9 +91,9 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
 DOMAIN,copilot.microsoft.com
+DOMAIN-SUFFIX,copilot.com
+#
 DOMAIN-SUFFIX,chorus.sh
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,siftscience.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,revenuecat.com
+
