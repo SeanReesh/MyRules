@@ -61,8 +61,6 @@ DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,cdn.usefathom.com
 IP-CIDR,160.79.104.0/21,no-resolve
 IP-CIDR,2607:6bc0::/32,no-resolve
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
 PROCESS-NAME,Claude
 PROCESS-NAME,Claude Helper
 PROCESS-NAME,Claude Helper (GPU)
